@@ -1,4 +1,4 @@
-# Sibanye-Stillwater Health App — Mobile Frontend (v1)
+
 
 React Native + Expo frontend for the Mobile Health / Telemedicine RFP.
 This is **frontend only** — screens use mock data, no backend/API wired up yet.
